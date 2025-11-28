@@ -24,5 +24,5 @@ Tipo de control
 El sistema es de lazo cerrado, ya que utiliza la retroalimentación del sensor ultrasónico para decidir el movimiento de los motores. 
 
 Autores
-Rodolfo Laime, Olivera romina y Campos Wendi.
+Laime Rodolfo, Olivera Romina y Campos Wendy.
 
